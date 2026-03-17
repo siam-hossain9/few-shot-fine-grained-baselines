@@ -23,7 +23,7 @@ This project explores whether modern pretrained models (DINOv2, CLIP, ViT) combi
 No task-specific training was used.
 
 ## Paper
-📄 Read the full paper
+📄 Read the full paper:https://github.com/siam-hossain9/few-shot-fine-grained-baselines/blob/main/Few_Shot_Fine_Grained.pdf
 
 ## Why This Matters
 This work shows that representation quality is more important than complex learning algorithms for few-shot tasks.
